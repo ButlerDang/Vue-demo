@@ -4,3 +4,7 @@
 ### view
 ### router
 ### axios
+### uni-app
+### tailwindcss
+### scss
+### vite.config
